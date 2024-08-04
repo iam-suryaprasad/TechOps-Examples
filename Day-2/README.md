@@ -98,33 +98,33 @@
 
                               📖 Resources & Tutorials
 
-    * Kubernetes RBAC Best Practices and Tooling Collection *
+  * Kubernetes RBAC Best Practices and Tooling Collection *
 
-      https://github.com/mhausenblas/rbac.dev?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=how-to-use-one-helm-chart-for-eks-and-gke&_bhlid=5efbd00e10051ef6ab4d3aa29a51822529bac77a
+    https://github.com/mhausenblas/rbac.dev?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=how-to-use-one-helm-chart-for-eks-and-gke&_bhlid=5efbd00e10051ef6ab4d3aa29a51822529bac77a
 
-    * Useful Git Shortcuts and Autocomplete for Windows Bash Terminal *
+  * Useful Git Shortcuts and Autocomplete for Windows Bash Terminal *
 
-      https://github.com/AndreiLucaci/git-shortcuts?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=how-to-use-one-helm-chart-for-eks-and-gke&_bhlid=cafcfcefe07c53fb776167161598dbdf3a405261
+    https://github.com/AndreiLucaci/git-shortcuts?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=how-to-use-one-helm-chart-for-eks-and-gke&_bhlid=cafcfcefe07c53fb776167161598dbdf3a405261
 
                               📈 Trends & Updates
 
-    * Google Cloud Functions Flaw Exposes Sensitive Data * 
+  * Google Cloud Functions Flaw Exposes Sensitive Data * 
 
-      https://thehackernews.com/2024/07/experts-expose-confusedfunction.html?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=how-to-use-one-helm-chart-for-eks-and-gke&_bhlid=5bb0dab550763c1413a47a8291f6cf15c6b90b49 
+    https://thehackernews.com/2024/07/experts-expose-confusedfunction.html?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=how-to-use-one-helm-chart-for-eks-and-gke&_bhlid=5bb0dab550763c1413a47a8291f6cf15c6b90b49 
 
-      The ConfusedFunction vulnerability in Google Cloud Functions allows attackers to escalate privileges and access sensitive data. Google's recent updates mitigate the issue for new deployments, but existing instances remain vulnerable.
+    The ConfusedFunction vulnerability in Google Cloud Functions allows attackers to escalate privileges and access sensitive data. Google's recent updates mitigate the issue for new deployments, but existing instances remain vulnerable.
 
-    * Red Hat OpenShift GitOps 1.12: Key Updates and Enhancements *
+  * Red Hat OpenShift GitOps 1.12: Key Updates and Enhancements *
 
-      https://docs.redhat.com/zh_hans/documentation/red_hat_openshift_gitops/1.12/pdf/release_notes/red_hat_openshift_gitops-1.12-release_notes-en-us.pdf?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=how-to-use-one-helm-chart-for-eks-and-gke&_bhlid=2d7ebd25b0fb13163a78d258c05ae61c9e633b49
+    https://docs.redhat.com/zh_hans/documentation/red_hat_openshift_gitops/1.12/pdf/release_notes/red_hat_openshift_gitops-1.12-release_notes-en-us.pdf?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=how-to-use-one-helm-chart-for-eks-and-gke&_bhlid=2d7ebd25b0fb13163a78d258c05ae61c9e633b49
 
-      The 1.12 release of Red Hat OpenShift GitOps introduces ArgoCD CLI support, enhanced NotificationsConfiguration, and critical fixes for TLS policies and secure authentication. These updates improve automation, security, and user experience for cloud-native deployments.
+    The 1.12 release of Red Hat OpenShift GitOps introduces ArgoCD CLI support, enhanced NotificationsConfiguration, and critical fixes for TLS policies and secure authentication. These updates improve automation, security, and user experience for cloud-native deployments.
 
-    * Critical Flaw in Docker Engine Allows Authorization Bypass
+  * Critical Flaw in Docker Engine Allows Authorization Bypass
 
-      https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=how-to-use-one-helm-chart-for-eks-and-gke&_bhlid=d2713ca5994f518bdc02224b49792cfa9d199b7e
+    https://thehackernews.com/2024/07/critical-docker-engine-flaw-allows.html?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=how-to-use-one-helm-chart-for-eks-and-gke&_bhlid=d2713ca5994f518bdc02224b49792cfa9d199b7e
 
-      Docker has identified a critical vulnerability, CVE-2024-41110, allowing attackers to bypass authorization plugins and escalate privileges in certain versions of Docker Engine. With a maximum CVSS score of 10.0, this flaw has been patched in recent updates, and users are urged to upgrade to prevent potential exploits.
+    Docker has identified a critical vulnerability, CVE-2024-41110, allowing attackers to bypass authorization plugins and escalate privileges in certain versions of Docker Engine. With a maximum CVSS score of 10.0, this flaw has been patched in recent updates, and users are urged to upgrade to prevent potential exploits.
 
       
 
