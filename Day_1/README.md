@@ -14,9 +14,9 @@ Kubernetes crashloopbackoff Example
 
   Kubernetes Crashloopbackoff Break Down    
 
-Ever had one of those days when everything seems fine, but there's that one irritating pod that just won't stay up?
+  Ever had one of those days when everything seems fine, but there's that one irritating pod that just won't stay up?
 
-The most common Kubernetes issue that can really test your patience: the CrashLoopBackOff.
+  The most common Kubernetes issue that can really test your patience: the CrashLoopBackOff.
 
 What is it?
 
@@ -86,3 +86,31 @@ Realistically, you may not be able to avoid this completely but it can be preven
 
   You ensure sufficient CPU and memory allocation by defining resources.requests and resources.limits, and use VPA.
 
+                             Resources & Tutorials
+
+        * A GenAI-powered Kubetools Recommender System *
+          https://github.com/kubetoolsca/krs?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=kubernetes-crashloopbackoff-example
+
+         KRS (Kubetools Recommender System) uses AI to recommend the best Kubernetes tools by scanning your cluster, detecting tools, and providing health checks. It supports OpenAI and Hugging Face models for interactive troubleshooting and recommendations.
+
+       * How to secure an S3 bucket on AWS? *
+         https://snyk.io/blog/secure-s3-bucket-on-aws/?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=kubernetes-crashloopbackoff-example
+
+        This blog covers practical steps, including understanding S3 bucket vulnerabilities, best practices for security, and using tools like Snyk to automate security measures.      
+
+                           Trends & Updates
+
+       * AWS CodeCommit Closes to New Customers – Existing Users Unaffected *
+        https://aws.amazon.com/blogs/devops/how-to-migrate-your-aws-codecommit-repository-to-another-git-provider/?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=kubernetes-crashloopbackoff-example
+
+        Customers can move their AWS CodeCommit repositories to other Git providers by cloning or mirroring them. The blog offers step-by-step instructions for migrating to GitLab, GitHub, and other providers, ensuring all branches and tags are transferred successfully.
+
+       * OpenTofu 1.8.0 Released with New Features and Future Plans *
+        https://opentofu.org/blog/opentofu-1-8-0/?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=kubernetes-crashloopbackoff-example
+
+        This release includes early evaluation, provider mocking, and a new .tofu file extension for better functionality. It reduces code duplication and makes projects easier to maintain with dynamic variable assignments. Future updates will add dynamic provider configurations and more community-driven improvements.
+
+       * Azure DevOps Adds GitHub Branch Creation from Work Items *
+        https://devblogs.microsoft.com/devops/update-on-azure-boards-github-integration/?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=kubernetes-crashloopbackoff-example
+
+        Now you can create GitHub branches directly from work items in Azure DevOps, making your workflow smoother. Enhanced repository search makes connecting to projects with many repositories easier. AB# links in GitHub pull requests help you find related work items quickly.
