@@ -12,7 +12,7 @@
 
    - Google Cloud Functions and Docker Engine Critical Flaws Exposed
 
-         * How to use One Helm Chart for EKS and GKE *
+        * How to use One Helm Chart for EKS and GKE *
 
     - Today, I'm going to walk you through how to do just that with a real-world example of an e-commerce application called ecom-app.
 
