@@ -52,7 +52,7 @@ How to detect it?
 
   1.You'll notice the CrashLoopBackOff pod status:
 
-    ![alt text](image-1.png)
+  ![alt text](image-1.png)
 
   2.Describe the pod to get more details:
 
