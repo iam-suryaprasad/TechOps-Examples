@@ -1,24 +1,24 @@
 Architecture to Overcome API Gateway Pay Load Limit
   
- Today’s Agenda :
+  Today’s Agenda :
 
-  Architecture to Overcome API Gateway Pay Load Limit
+   Architecture to Overcome API Gateway Pay Load Limit
 
-  Deploying Apps to EKS with GitHub Actions and ArgoCD
+   Deploying Apps to EKS with GitHub Actions and ArgoCD
 
-  Reimagining cloud strategy for AI-first enterprises
+   Reimagining cloud strategy for AI-first enterprises
 
-  Docker Desktop 4.33 Introduces Build Checks for Optimized Dockerfiles
+   Docker Desktop 4.33 Introduces Build Checks for Optimized Dockerfiles
 
-  Google Adds Gemini AI to BigQuery and Looker to Simplify Data Tasks
+   Google Adds Gemini AI to BigQuery and Looker to Simplify Data Tasks
 
-  Microsoft to Explore Kernel Access Alternatives Post-CrowdStrike Outage
+   Microsoft to Explore Kernel Access Alternatives Post-CrowdStrike Outage
 
--Architecture to Overcome API Gateway Pay Load Limit
+- Architecture to Overcome API Gateway Pay Load Limit
 
-  Today's use case is about "Overcoming AWS API Gateway Payload Limits" with an ideal architecture example.
+   Today's use case is about "Overcoming AWS API Gateway Payload Limits" with an ideal architecture example.
 
-  Imagine you're developing a document management mobile app, where users can upload large files such as PDFs, presentations, and spreadsheets. The app needs to store these documents securely and efficiently.
+   Imagine you're developing a document management mobile app, where users can upload large files such as PDFs, presentations, and spreadsheets. The app needs to store these documents securely and efficiently.
 
   For this, utilizing AWS services like API Gateway and S3 is an ideal choice due to their scalability, security, and ease of integration.
 
