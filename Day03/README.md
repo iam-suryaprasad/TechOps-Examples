@@ -1,6 +1,6 @@
-* Architecture to Overcome API Gateway Pay Load Limit *
+Architecture to Overcome API Gateway Pay Load Limit
   
-Today’s Agenda :
+ Today’s Agenda :
 
   Architecture to Overcome API Gateway Pay Load Limit
 
