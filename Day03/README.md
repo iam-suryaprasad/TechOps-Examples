@@ -14,7 +14,7 @@ Architecture to Overcome API Gateway Pay Load Limit
 
   Microsoft to Explore Kernel Access Alternatives Post-CrowdStrike Outage
 
-- Architecture to Overcome API Gateway Pay Load Limit
+Architecture to Overcome API Gateway Pay Load Limit
 
   Today's use case is about "Overcoming AWS API Gateway Payload Limits" with an ideal architecture example.
 
