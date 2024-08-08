@@ -77,7 +77,8 @@ https://www.armosec.io/blog/unraveling-the-state-of-kubernetes-security-2024/?ut
 
 The 2024 Red Hat State of Kubernetes Security report reveals decreasing concerns about misconfigurations and increasing worries about vulnerabilities, emphasizing the importance of continuous security scanning and DevSecOps practices.
 
-[Automating Databases for Modern DevOps Practices](https://dzone.com/articles/automating-databases-for-modern-devops-practices?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=aws-security-groups-common-error-codes-and-resolutions&_bhlid=972303774b6705bc5234bea0750018202f2b2109)
+- [Automating Databases for Modern DevOps Practices](https://dzone.com/articles/automating-databases-for-modern-devops-practices?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=aws-security-groups-common-error-codes-and-resolutions&_bhlid=972303774b6705bc5234bea0750018202f2b2109)
+
 
 
 The blog demonstrates how Amazon Q Developer, a generative AI-powered assistant, enhances Terraform development by generating code snippets for various AWS services like VPCs, CI/CD pipelines, event-driven architectures, ECS with Fargate, and SageMaker workflows.
