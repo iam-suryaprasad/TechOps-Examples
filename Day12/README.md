@@ -17,6 +17,7 @@ DigitalOcean Load Balancer: Scaling to 1,000,000+ Connections
 
 #### Kubernetes RBAC Simplified
 
+
 Kubernetes RBAC and security are inseparable, as weak access control can expose your cluster to security threats, making it vulnerable to unauthorized access and potential breaches. It is not a 'good to have' or an afterthought; it is a fundamental necessity.
 
 Some of you may already know this. Let's quickly revise how RBAC works.
