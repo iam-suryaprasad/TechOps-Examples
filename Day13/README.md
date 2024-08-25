@@ -89,4 +89,3 @@ https://differ.blog/webdev/5-tips-to-help-you-save-on-dynamodb-costs-dc020f?utm_
 https://spacelift.io/blog/terraform-kubernetes-secret?utm_source=www.techopsexamples.com&utm_medium=newsletter&utm_campaign=kubernetes-dns-optimization&_bhlid=e9f7ab15a66134d3b94cdf1500504d8a7dad44a5
 
 ![alt text](image-8.png)
-
