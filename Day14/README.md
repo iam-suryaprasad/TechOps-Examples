@@ -94,3 +94,5 @@ https://microsoft.github.io/generative-ai-for-beginners/?utm_source=www.techopse
 ### AWS classic console:
 
 ![alt text](<unnamed (8).jpg>)
+
+
